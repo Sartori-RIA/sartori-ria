@@ -45,7 +45,7 @@
     <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
-    <a href="https://www.cookiecode.com.br.nl" target="_blank">
+    <a href="https://www.cookiecode.com.br" target="_blank">
         <img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
 </p>
