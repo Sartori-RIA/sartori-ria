@@ -17,7 +17,7 @@ Frontend
 
 Backend and Mobile
 
-<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby on Rails-68136b?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/-Docker-3e72cb?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Ruby on Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/-Docker-3e72cb?style=for-the-badge&logo=docker&logoColor=white"/>
 
 CI/CD
 
@@ -35,10 +35,10 @@ Services
 
 <h2>📈 GitHub Stats</h2>
 <a href="https://github.com/sartori-ria/sartori-ria">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori-ria&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori-Ria&hide=html,visual%20basic&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 <a href="https://github.com/sartori-ria/sartori-ria">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sartori-ria&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sartori-ria&amp;&include_all_commits=true;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
 </a>
 <br/>
 
@@ -55,6 +55,9 @@ Services
     </a>
     <a href="https://www.cookiecode.com.br" target="_blank">
         <img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://stackoverflow.com/users/7960132/lucas-sartori" target="_blank">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>
 </p>
 <br/>
