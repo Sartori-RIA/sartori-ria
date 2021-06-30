@@ -1,6 +1,6 @@
 <h1>👋 Oh, hi there!</h1>
 
-<p>Welcome to my GitHub profile! <br/>I am Lucas Antonio Ramos Sartori,  <b>Fullstack Developer</b> for <a href="https://grupoeuax.com.br/" target="_blank">Grupo Euax</a> living in <b>Guarapuava - Paraná, the Brazil</b>.</p>
+<p>Welcome to my GitHub profile! <br/>I am Lucas Antonio Ramos Sartori,  <b>Fullstack Developer and Tech Lead</b> for <a href="https://grupoeuax.com.br/" target="_blank">Grupo Euax</a> living in <b>Guarapuava - Paraná, the Brazil</b>.</p>
 
 <p>I love everything tech, and am specialized in Angular and Ruby on Rails. <br/>
     I love to play games with my sons, and go to firing range 
