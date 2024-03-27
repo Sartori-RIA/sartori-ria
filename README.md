@@ -1,6 +1,10 @@
 <h1>👋 Oh, hi there!</h1>
 
-<p>Welcome to my GitHub profile! <br/>I am Lucas Antonio Ramos Sartori,  <b>Fullstack Developer</b> focused in Ruby on Rails living in <b>Foz do Iguaçu - Paraná, the Brazil</b>.</p>
+<p>Welcome to my GitHub profile! <br/>I am Lucas Antonio Ramos Sartori, <b>Fullstack Developer focused in Ruby on Rails</b> living in Foz do Iguaçu - Paraná, the Brazil.</p>
+
+<p>
+    I'm with 8 years of experience working as a developer and the last 5 years focused in Ruby on Rails projects, the last 2 years and half I worked in a company from US
+</p>
 
 <p>I love everything tech, and am specialized in Angular and Ruby on Rails. <br/>
     I love to play games with my sons, and go to firing range 
