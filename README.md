@@ -37,31 +37,13 @@ Services
 
 </p>
 
-<h2>📈 GitHub Stats</h2>
-<a href="https://github.com/sartori-ria/sartori-ria">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartori-Ria&hide=html,visual%20basic&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
-<a href="https://github.com/sartori-ria/sartori-ria">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sartori-ria&amp;&include_all_commits=true;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
-</a>
-<br/>
-
 <h2>🌎 Where to find me</h2>
 <p>
     <a href="https://github.com/sartori-ria" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/LucasARSartori1" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-    </a>
-    <a href="https://www.cookiecode.com.br" target="_blank">
-        <img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="https://stackoverflow.com/users/7960132/lucas-sartori" target="_blank">
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>
 </p>
 <br/>
