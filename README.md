@@ -1,14 +1,10 @@
-<h1>👋 Oh, hi there!</h1>
+👋 Hi! I'm a Brazilian software developer with nearly 9 years of experience, passionate about building scalable and efficient solutions. For the past 5 years, I've been focused heavily on developing web applications using Ruby on Rails, with a solid track record in building RESTful APIs, optimizing legacy code, and adopting modern development practices.
 
-<p>Welcome to my GitHub profile! <br/>I am Lucas Antonio Ramos Sartori, <b>Fullstack Developer focused in Ruby on Rails</b> living in Foz do Iguaçu - Paraná, the Brazil.</p>
+I've been working with U.S.-based companies for over 3 years, collaborating on global projects and contributing to distributed teams. I have experience with microservices, Docker, PostgreSQL, JWT authentication, RSpec testing, and a strong understanding of software architecture.
 
-<p>
-    I'm with 8 years of experience working as a developer and the last 5 years focused in Ruby on Rails projects, the last 2 years and half I worked in a company from US
-</p>
+Outside of tech, I live in the countryside and enjoy spending quality time with my family. As a father of 3, I love playing and gaming with my kids. I also enjoy cooking and occasionally head to the shooting range for some practice. Always open to new ideas and collaborations!
 
-<p>I love everything tech, and am specialized in Angular and Ruby on Rails. <br/>
-    I love to play games with my sons, and go to firing range 
-</p>
+
 
 <hr/>
 
