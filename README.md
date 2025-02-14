@@ -1,46 +1,57 @@
-👋 Hi! I'm a Brazilian software developer with nearly 9 years of experience, passionate about building scalable and efficient solutions. For the past 5 years, I've been focused heavily on developing web applications using Ruby on Rails, with a solid track record in building RESTful APIs, optimizing legacy code, and adopting modern development practices.
+<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQHXQsJjdgABfw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725036720747?e=1744848000&v=beta&t=vhfaDDpoRB-XzJUr6VcJwS3TILi1eM1g-APfFgU0A2A"  />
 
-I've been working with U.S.-based companies for over 3 years, collaborating on global projects and contributing to distributed teams. I have experience with microservices, Docker, PostgreSQL, JWT authentication, RSpec testing, and a strong understanding of software architecture.
+###
 
-Outside of tech, I live in the countryside and enjoy spending quality time with my family. As a father of 3, I love playing and gaming with my kids. I also enjoy cooking and occasionally head to the shooting range for some practice. Always open to new ideas and collaborations!
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
+<h1 align="center">hey there 👋</h1>
 
-<hr/>
+###
 
-<h2>🔧 Things I work with</h2>
-<p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-Frontend
+###
 
-<img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3c62be?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3952b1?style=for-the-badge&logo=javascript&logoColor=white"/><img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />
+<p align="left">Hi! I'm Lucas Antonio Ramos Sartori, a Ruby on Rails Developer from Brazil, working remotely as a contractor for U.S. companies.<br><br>- 👨‍💻 Ruby on Rails Developer with experience in monolithic applications and microservices architectures.<br><br>- 🔥 Expert in RESTful APIs, authentication with Devise/Devise-JWT, and authorization with CanCanCan.<br><br>- 🏗️ Skilled in PostgreSQL, Searchkick/OpenSearch, Shoryuken, Docker, and RSpec.<br><br>- 🚀 Focused on legacy code improvement, database performance optimization, and code refactoring.<br><br>- 🌍 Remote contractor for U.S. companies, working as a Rails architect and full-stack developer.</p>
 
-Backend and Mobile
+###
 
-<img alt="Ruby on Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/-Docker-3e72cb?style=for-the-badge&logo=docker&logoColor=white"/>
+<h3 align="left">🛠 Language and tools</h3>
 
-CI/CD
+###
 
-<img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/><img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="40" alt="rubymine logo"  />
+</div>
 
-Databases
+###
 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-8d4537?style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-7a5539?style=for-the-badge&logo=mysql&logoColor=white"/>
+<h3 align="left">🔥   My Stats :</h3>
 
-Services
+###
 
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sartori-ria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-</p>
-
-<h2>🌎 Where to find me</h2>
-<p>
-    <a href="https://github.com/sartori-ria" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-    </a>
-</p>
-<br/>
-<hr/>
+###
