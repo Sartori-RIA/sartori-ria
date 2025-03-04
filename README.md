@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi! I'm Lucas Antonio Ramos Sartori, a Ruby on Rails Developer from Brazil, working remotely as a contractor for U.S. companies.<br><br>- 👨‍💻 Ruby on Rails Developer with experience in monolithic applications and microservices architectures.<br><br>- 🔥 Expert in RESTful APIs, authentication with Devise/Devise-JWT, and authorization with CanCanCan.<br><br>- 🏗️ Skilled in PostgreSQL, Searchkick/OpenSearch, Shoryuken, Docker, and RSpec.<br><br>- 🚀 Focused on legacy code improvement, database performance optimization, and code refactoring.<br><br>- 🌍 Remote contractor for U.S. companies, working as a Rails architect and full-stack developer.</p>
+<p align="left">Hi! I'm Lucas Antonio Ramos Sartori, a Ruby on Rails Developer from Brazil, working remotely as a contractor for U.S. companies.<br><br>- 👨🏻‍💻 Ruby on Rails Developer with experience in monolithic applications and microservices architectures.<br><br>- 🔥 Expert in RESTful APIs, authentication with Devise/Devise-JWT, and authorization with CanCanCan.<br><br>- 🏗️ Skilled in PostgreSQL, Searchkick/OpenSearch, Shoryuken, Docker, and RSpec.<br><br>- 🚀 Focused on legacy code improvement, database performance optimization, and code refactoring.<br><br>- 🌍 Remote contractor for U.S. companies, working as a Rails architect and full-stack developer.</p>
 
 ###
 
