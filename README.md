@@ -1,56 +1,34 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Lucas Sartori</h1>
 
 <p align="center">
-  Senior Software Engineer · Ruby on Rails · Remote
+  <strong>Senior Ruby on Rails Engineer</strong><br />
+  Backend architecture · PostgreSQL · Performance & reliability<br />
+  Brazil · Remote with US-based teams
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="linkedin logo"
-    />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/">LinkedIn</a>
+  ·
+  <a href="https://portfolio-opal-theta-60.vercel.app">Portfolio</a>
+</p>
 
----
+I build, scale, and stabilize production Rails SaaS: mature codebases, APIs, background jobs, and search — with a bias for making the next change safer, not just shipping the current one.
 
-### 👨🏻‍💻 About Me
+### Impact
 
-Hi! I'm **Lucas Sartori**, a Senior Software Engineer from Brazil, working remotely with U.S.-based companies.
+- Cut AI processing time from 20+ minutes to 1–4 minutes
+- Reduced AI-related operational cost by 60%
+- Raised automated test coverage to 80–90%+ across production repositories
+- Brought ERP processing from ~4 hours down to 10–15 minutes
+- Designed event-driven search/indexing with Elasticsearch/Searchkick and Karafka
+- Stabilized production systems for US startup clients
 
-I have nearly **9 years of experience**, with the last **6 years focused on Ruby on Rails**, building and evolving large-scale, production-critical systems.
+### Stack
 
-- 🧠 Strong background in **legacy systems**, multi-tenant architectures, and long-lived codebases  
-- 🏗️ Deep experience with **RESTful APIs**, authentication/authorization, and data-intensive systems  
-- 🧪 Passionate about **code quality**, automated testing, and long-term maintainability  
-- 🚀 Focused on performance optimization, refactoring, and sustainable system growth  
-- 🌍 Remote engineer collaborating daily with distributed, international teams  
-- 🤖 Currently working with **AI-driven features and prompt ownership** in production systems  
+Rails first: **Ruby on Rails, PostgreSQL, Redis, Sidekiq, RSpec, Elasticsearch/OpenSearch, Karafka, Docker, AWS.**
 
-I care about **ownership**, clarity, and leaving the codebase better than I found it.
+Also used in production when the product needs it: MySQL, React, TypeScript.
 
----
-
-### 🛠 Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws" alt="Ruby, Rails, PostgreSQL, Redis, Docker, AWS" />
+</p>
