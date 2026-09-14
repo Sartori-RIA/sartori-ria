@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-antonio-ramos-sartori/">LinkedIn</a>
   ·
-  <a href="https://portfolio-opal-theta-60.vercel.app">Portfolio</a>
+  <a href="https://cookiecode.com.br">Portfolio</a>
 </p>
 
 I build, scale, and stabilize production Rails SaaS: mature codebases, APIs, background jobs, and search — with a bias for making the next change safer, not just shipping the current one.
